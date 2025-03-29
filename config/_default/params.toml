@@ -72,11 +72,5 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [umamiAnalytics]
   websiteid = "7ea39b32-a1e2-46f7-b882-eb50dedde52b"
-  domain = "xeonzilla.top"
+  domain = "umami.xeonzilla.top"
   scriptName = "hugo-deploy"
-
-[selineAnalytics]
-  token = "2dfcb493bcef4d6"
-
-[verification]
-  google = "ZMPkOyFD0j8QvFC2ZYLJqU9pZYMfda8VtXdYl-isr94"
